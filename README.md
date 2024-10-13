@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AAMOUD
+# 👋 Hi, I’m @AAMOUD_Aicha
 
 Welcome to my GitHub profile! Here’s a little bit about me:
 
