@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @AAMOUD_Aicha
+Welcome to my GitHub! A bit about me:
 
-Welcome to my GitHub profile! Here’s a little bit about me:
-
-- 👀 I’m interested in **data science, machine learning, and finance**.
-- 🌱 I’m currently learning **quantitative methods in machine learning** and how to apply them in financial contexts.
-- 💞️ I’m looking to collaborate on **quantitative machine learning projects that explore innovative applications in finance**.
-- 📫 How to reach me: **aicha.aamoud@etu.univ-nantes.fr**.
+- I’m Aïcha, a quantitative analyst with a strong engineering background.
+- I enjoy building solutions that are mathematically sound and technically robust.
+- Focused on systematic strategies and understanding model behavior across markets.
+- Looking to grow in a quantitative team, strengthen market intuition, and contribute through analytics and engineering.
+You can reach me at: **aicha.aamoud09gmail.com**
